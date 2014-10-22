@@ -1,0 +1,10 @@
+# Site settings
+title: Servermon organization
+description: "Servermon organization"
+baseurl: ""
+url: "http://servermon.gitub.io"
+github_username:  servermon
+
+# Build settings
+markdown: redcarpet
+permalink: pretty
